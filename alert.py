@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+# By Mody404 made with <3
 import json
 import time
 import requests
